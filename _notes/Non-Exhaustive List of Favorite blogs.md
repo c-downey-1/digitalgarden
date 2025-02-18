@@ -1,4 +1,0 @@
----
----
-
-- [Astral Codex X]

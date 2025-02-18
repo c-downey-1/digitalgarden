@@ -1,4 +1,6 @@
 ---
+title: image
+date: 2025-02-14
 ---
 To add an inline image, save the image in assets/ and paste the below html code directly into the markdown file.
 
