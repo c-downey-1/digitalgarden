@@ -4,9 +4,10 @@ date: 2025-02-14
 ---
 The following process allows me to write in my preferred editor, Obsidian, and publish to the website with a couple clicks in GitKraken.
 
-The website is a subfolder in my main obsidian vault. Only the subfolder pushes to github, allowing me to write drafts anywhere in my vault and then move them into the "notes" folder when they are ready to be published on the site.
+ The website was built as a subfolder in my main obsidian vault. Only the subfolder pushes to github, allowing me to write drafts anywhere in my vault and then move them into the "notes" folder when they are ready to be published on the site. 
 
 <br><img src="{{ site.baseurl }}/assets/Vault_Example.png"/><br>
+Jekyll rendering requires quite a few subfolders that can clutter up the side navigation bar. [[How to hide folders in obsidian file navigator using custom css snippets|Here is how you can fix this issue.]]
 # For new notes
 
 1. I create a new note in my Obsidian Vault. <br>
