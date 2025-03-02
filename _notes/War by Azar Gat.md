@@ -1,3 +1,6 @@
+---
+---
+
 Chapter 1 discusses how anthropologists and zoologists used to believe that humans were unique in our intraspecific (within species) fatal violence. In fact, we thought chimps during the 60s were relatively peaceful vegetarians. However, modern consensus on this question is that intraspecies violence is actually quite common and many of our ancestors, like the chimps, are considerably more violent and warlike than humans.
 
 ch 2

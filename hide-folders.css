@@ -1,0 +1,4 @@
+div[data-path='digitalgarden/_includes'], 
+div[data-path='digitalgarden/_includes'] + div.nav-folder-children {
+    display: none;
+}
