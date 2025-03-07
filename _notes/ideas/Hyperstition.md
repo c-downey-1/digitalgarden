@@ -14,9 +14,7 @@ Hyperstition is broader. These fictions act on the level of culture by narrative
 
 **Through this lens, ideas become weaponized, contagious, agentic, power-seeking, and warfare.** 
 
-Hyperstitional narratives play with truth in an interesting way. The fictions that activate themselves were in a real sense true the entire time. A false idea is *made true* by its own effects.
-
-Hyperstition moves away from traditional philosophies where ideas *represent* the world to one where idea *produce* the world. Thus, [[hyperstition reminds us that the future is up for grabs]].
+Hyperstition moves away from traditional philosophies where ideas *represent* the world to one where ideas *produce* the world. Thus, [[hyperstition reminds us that the future is up for grabs]].
 
 [[Hyperstition provides a framework to talk about the power of imagination in a rigorous way]].
 

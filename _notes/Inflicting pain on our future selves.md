@@ -25,9 +25,7 @@ There are quite a few reasons why discounting money makes sense. Economies have 
 
 But it doesn't really make sense to talk about health in any of these terms. Most importantly, there is no compelling reason to believe that a certain level of health in the future is inherently less valuable than the same level in the present. There are smaller forms of discounting that may make sense. For instance, personal mortality risk and the likelihood that modern technology cures the main causes of suffering both suggest at least minimal discounting. But these small factors certainly do not justify the *de facto* high level of discounting that most people are applying.
 
-Of course, *rationally buying* and *acting on* this argument are two different things. Most of us will continue to be cruel to our future selves, even when we make our best-faith effort to consider our older self as a moral patient. Nevertheless, we must try to remember that our subjective sense of the benefits of exercise and healthier eating is unfathomably misguided. 
+Of course, *rationally buying* the argument and *acting on* it are two very different things. Most of us will continue to be cruel to our future selves, even when we make our best-faith effort to consider our older self as a moral patient. Nevertheless, we must try to remember that our subjective sense of the benefits of exercise and healthier eating is unfathomably misguided. 
 
 Try asking: what would my future self think about this decision? 
-
-He would probably tell you to get your ass to the gym and lay off the donuts. 
 
