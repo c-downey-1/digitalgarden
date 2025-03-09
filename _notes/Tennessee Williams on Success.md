@@ -1,0 +1,8 @@
+---
+title: Tennessee Williams on Success
+date: 2025-02-18
+---
+
+>One does not escape that easily from the seduction of an effete way of life. You cannot arbitrarily say to yourself, I will not continue my life as it was before this thing, Success, happened to me. But once you fully apprehend the vacuity of a life without struggle you are equipped with the basic means of salvation. Once you know this is true, that the heart of man, his body and his brain, are forged in a white-hot furnace for the purpose of conflict (the struggle of creation) and that with the conflict removed, the man is a sword cutting daisies, that not privation but luxury is the wolf at the door and that the fangs of this wolf are all the little vanities and conceits and laxities that Success is heir to—-why, then with this knowledge you are at least in a position of knowing where danger lies.<br>
+><br>
+Then what is good? The obsessive interest in human affairs, plus a certain amount of compassion and moral conviction, that first made the experience of living something that must be translated into pigment or music or bodily movement or poetry or prose or anything that’s dynamic and expressive—that’s what’s good for you if you’re at all serious in your aims. William Saroyan wrote a great play on this theme, that purity of heart is the one success worth having. “In the time of your life—live!” That time is short and it doesn’t return again. It is slipping away while I write this and while you read it, and the monosyllable of the clock is Loss, loss, loss, unless you devote your heart to its opposition.

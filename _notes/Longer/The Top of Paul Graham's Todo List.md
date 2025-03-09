@@ -30,4 +30,4 @@ But are the activists and the non-profit workers doing much better?  It certainl
 
 *Finding* purpose is often what people mean by "living true to yourself" these days. But the singleminded pursuit of meaning, passion, and impact can be just as damaging as the pursuit of wealth or power. Many ask of their career what it can not give, or devote their lives to ideas they don't understand in full. 
 
-The solution is falling back into those identities that have scaffolded meaning throughout human history. These are the identities that *have* purpose by virtue of their reciprocal obligations. Parent, spouse, neighbor, mentor etc. 
+The solution is falling back into those identities that have scaffolded meaning throughout human history. These are the identities and relationships that *have* purpose by virtue of their reciprocal obligations. Parent, spouse, neighbor, mentor etc. 
