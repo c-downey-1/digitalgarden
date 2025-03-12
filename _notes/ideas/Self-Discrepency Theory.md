@@ -23,7 +23,7 @@ Higgins theorizes that there are three "domains" of the self, and two different 
 
 Most people feel that there is a significant discrepancy between the aspirational/ideal self and the self that actually goes about living life. [[Inflicting pain on our future selves|The aspirational self makes big plans]]: "from this day hence I will eat healthfully, control my vices, and exercise consistently—all while being a patient and fun spouse and friend." We hear that the self *ought* to be a CEO, the President, and the local hero. The actual self will eat a bowl of ice cream at 8pm.
 
-The most interesting part of Higgins' theory is how he situates dejection and agitation as different failure modes of living up to expectations.
+**The most interesting part of Higgins' theory is how he situates dejection and agitation as different failure modes of living up to expectations.**
 
 Failing to live up to your aspirational self results in depression, sadness, and dejection. While failing to live up to societies expectations (the Ought self) causes feelings of agitation like anxiety, the fear of criticism, or the worry of being ostracized (shame).
 
