@@ -20,7 +20,7 @@ He derives these from a list of top 5 regrets of the dying by a palliative care 
 
 **How does one know what living a life true to oneself actually consists of?**
 
-When I was 18 years old, entering Wesleyan University as an ambitious freshman, my main goal in life was to make a lot of money, acquire a lot of power, and ultimately become the president or at the least a US senator or SCOTUS justice. These were my actual goals, as ridiculous as they now sound.  I think most teenage boys go through this stage and, unfortunately, some never make it out.  
+When I was 18 years old, entering Wesleyan University as an ambitious freshman, my main goals in life were to make a lot of money, acquire a lot of power, and ultimately become the president or at the least a US senator or SCOTUS justice. These were my actual goals, as ridiculous as they now sound.  I think most teenage boys go through this stage and, unfortunately, some never make it out.  
 
 There is a hollowness that accompanies the singleminded pursuit of wealth.  I saw it etched into the faces of many of my colleagues when I worked at an investment bank.  Some there knew it too, but were trapped by their mortgages, kids, and lifestyle creep.  
 
