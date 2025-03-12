@@ -19,3 +19,8 @@ Epictetus:
 Aurelias:
 
 >You have power over your mind—not outside events. Realize this, and you will find strength.
+
+But this is all easier said than done.
+
+Minimizing your circle of concern is a process. Some areas are easier than others: for instance, to stop caring about geopolitics, stop reading the news. Other areas—a spouse's health, for instance—I'm not so sure there is much room to minimize.
+
