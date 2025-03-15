@@ -8,9 +8,14 @@ The circle of concern captures all of those things which someone cares about. Ge
 
 Many of the things that concern us are out of our control. Probably most are. The circle of concern is much wider than the circle of control.  But we need to own and take responsibility for our reactions to that which concerns us. 
 
-This concept is similar to what is called outcome independence or process orientation.
+This concept is similar to what is called outcome independence or process orientation. It also reminds me of the Christian serenity prayer: 
 
-The stoics figured this out long ago...
+>God, grant me the serenity
+>to accept the things I cannot change,
+>courage to change the things I can,
+>and wisdom to know the difference.
+
+The stoics also figured this out long ago...
 
 Epictetus:
 
