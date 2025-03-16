@@ -14,7 +14,7 @@ Jekyll rendering requires quite a few subfolders that can clutter up the side na
 2. Ctrl+p to insert template that includes the necessary "title" and "date" property <br><br> <img src="{{ site.baseurl }}/assets/publishing_template.png"/> <br>
 3. Write the note, add images with this [[image|process]], and link to existing notes
 4. Move any notes that should be published into the digitalgarden/\_notes subfolder.
-5. Stage, Commit, and Push the changes on GitKraken
+5. Stage, Commit, and Push the changes on GitKraken. I've considered writing a script to automate this git push to run every hour or so. I've decided for now to stick to manual.
 6. Netlify will pull the updates from Github and redeploy the site after a few minutes
 
 # Editing notes

@@ -47,6 +47,6 @@ In the same entry I also provided a somewhat unvarnished look at the desires tha
 
 I noted in the entry that the main problematic desire was about *appearance* of intelligence. I felt that this drive, "highlights the fact I find it difficult not to care about other people's impressions of me." I think I'll continue to optimize towards not caring about *most* other people's impressions of me, but be honest with myself that this is not something easy for any human to do.
 
-I also think the desire to *be* intelligent is silly, and [I mostly agree with Scott Alexander on this point.](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) After all, intelligence is mostly already baked in and there is no particular reason to think intelligence influences the value or dignity of any human. But it is easier to think a desire is silly than to expel the silly desire.
+I also think the desire to *be* intelligent is silly—[I mostly agree with Scott Alexander on this point.](https://slatestarcodex.com/2015/01/31/the-parable-of-the-talents/) After all, intelligence is mostly already baked in and there is no particular reason to think intelligence influences the value or dignity of any human. *But* it is easier to think a desire is silly than to expel the silly desire.
 
 
