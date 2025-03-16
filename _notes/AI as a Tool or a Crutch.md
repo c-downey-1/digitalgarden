@@ -2,9 +2,6 @@
 title: AI as a Tool or a Crutch
 date: 2025-03-16
 ---
-
->Once men turned their thinking over to machines in the hope that this would set them free. But that only permitted other men with machines to enslave them.
-
 ![Saturn Devouring His Son](https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg)
 *Saturn Devouring His Son* by Francisco Goya
 
