@@ -4,6 +4,8 @@ date: 2025-03-14
 ---
 [Henry Oliver's 20 Best English Poets](https://www.commonreader.co.uk/p/the-twenty-best-english-poets)
 
+[His Syllabi / Introduction to English Lit](https://www.syllabi.directory/english-literature)
+
 **Henry**
 
 God Tier
@@ -36,7 +38,7 @@ Third Tier
 
 ---
 
-**JM**
+**JM** [Henry's podcast guest]
 
 Shakespeare Tier
 
