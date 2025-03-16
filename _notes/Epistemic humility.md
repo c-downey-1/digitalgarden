@@ -1,8 +1,13 @@
 ---
-title: Touching obituary on epistemic humility
+title: Epistemic humility
 date: 2025-02-13
 ---
-On the importance of epistemic humility, mentors, and the endless pursuit of knowledge
+![The Tower of Babel](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project.jpg/1024px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project.jpg)
+*The Tower of Babel by Bruegel the Elder*
+
+Alfred North Whitehead:
+>Not ignorance, but ignorance of ignorance, is the death of knowledge.
+
 
 [From user Domini_canes on reddit:](https://www.reddit.com/r/AskHistorians/comments/2wjpg5/comment/cormzaq/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 

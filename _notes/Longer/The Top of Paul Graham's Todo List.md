@@ -28,6 +28,6 @@ Many would have chosen a different life had they foreseen what awaited them, but
 
 But are the activists and the non-profit workers doing much better?  It certainly does not seem that way. One problem for them is the cultural transition from *having* a purpose to *finding* a purpose. Nietzsche of course warned us about this. 
 
-*Finding* purpose is often what people mean by "living true to yourself" these days. But the singleminded pursuit of meaning, passion, and impact can be just as damaging as the pursuit of wealth or power. Many ask of their career what it can not give, or devote their lives to ideas they don't understand in full. 
+*Finding* purpose is often what people mean by [[Self-Discrepency Theory|"living true to yourself"]] these days. But the singleminded pursuit of meaning, passion, and impact can be just as damaging as the pursuit of wealth or power. Many ask of their career what it can not give, or devote their lives to ideas they don't understand in full. 
 
 The solution is falling back into those identities that have scaffolded meaning throughout human history. These are the identities and relationships that *have* purpose by virtue of their reciprocal obligations. Parent, spouse, neighbor, mentor etc. 

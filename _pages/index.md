@@ -8,7 +8,7 @@ permalink: /
 # CD's Digital Garden 🌱
 
 <p style="padding: 3em 1em; background: #F9F5E8; border-radius: 4px;">
-  Take a look at some of my <span style="font-weight: bold">[[Essays]]</span> to get started on your exploration.
+  Take a look at some of my favorite <span style="font-weight: bold">[[Ideas]]</span> to get started.
 </p>
 
 <strong>Recently updated notes</strong>

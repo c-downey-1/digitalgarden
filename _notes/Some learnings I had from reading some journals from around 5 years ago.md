@@ -14,7 +14,7 @@ Some of the things that came up for me as I spent a few hours reading through so
 1. You can't change the past. What I have done in the past led to who I am today—the person that ultimately I am proud of and happy with. It is not worth it to gripe over time misspent. 
 <br>
 
-2. The more that I learn and read, the more insecure I feel about the scope and validity of what I think I know well. I think this is probably a good thing—[[Touching obituary on epistemic humility|Epistemic Humility]].
+2. The more that I learn and read, the more insecure I feel about the scope and validity of what I think I know well. I think this is probably a good thing—[[Epistemic humility|Epistemic Humility]].
 <br>
 
 3. I won't have enough time to read all of the books that I want to read. (And that's okay!)
