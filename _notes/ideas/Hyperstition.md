@@ -2,6 +2,9 @@
 title: Hyperstition
 date: 2025-03-04
 ---
+![Las Meninas](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg/890px-Las_Meninas%2C_by_Diego_Vel%C3%A1zquez%2C_from_Prado_in_Google_Earth.jpg)
+*Las Meninas*
+
 A hyperstition is a fiction that engineers itself into reality. It is an idea that actualizes itself, triggering cultural feedback cycles which shape and produce the world.
 
 Hyperstitions are *initially* false in an important sense. But the fiction structurally reorganizes the world because of the actions of stakeholders who are, consciously or not, influenced by it. The fictions that activate themselves were in a different sense true the entire time. **A false idea is *made true* by its own effects.**

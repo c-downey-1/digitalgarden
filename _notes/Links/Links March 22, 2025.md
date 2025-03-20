@@ -1,5 +1,5 @@
 ---
-title: Best Links March 22, 2025
+title: Links March 22, 2025
 date: 2025-03-16
 ---
 [The God's Eye View is Death to Poetry](https://hollisrobbinsanecdotal.substack.com/p/the-gods-eye-view-is-death-to-poetry?utm_source=post-email-title&publication_id=1004053&post_id=159102622&utm_campaign=email-post-title&isFreemail=true&r=i22m&triedRedirect=true&utm_medium=email)
@@ -25,7 +25,7 @@ If the stuff I work on and find interesting is anywhere close to representative,
 
 [Rob Henderson: Sometimes Money Can Destroy You Faster Than Poverty](https://www.robkhenderson.com/p/sometimes-money-can-destroy-you-faster?utm_source=post-email-title&publication_id=800237&post_id=159090892&utm_campaign=email-post-title&isFreemail=true&r=i22m&triedRedirect=true&utm_medium=email)
 
->As a teenager, I noticed something strange about myself and many of the other young males I grew up around. So often, our worst moments didn’t happen when we were broke, but right after payday—when a sudden influx of cash allowed us to indulge in alcohol or drugs. Then the hangover would come, along with fleeting moments of clarity and regret. It’s a cycle I explore in **[my memoir](https://www.simonandschuster.com/books/Troubled/Rob-Henderson/9781982168537)**.<br><br>Recognizing the dangers of wealth, as articulated by Fitzgerald, taught me to be cautious of sudden windfalls of good fortune, to respect the dangers of excess, and to understand that self-discipline and restraint matter most precisely when it feels least necessary. It’s a constant reminder that character isn’t tested only by poverty and hardship, but equally—and perhaps even more dangerously—by success.
+>As a teenager, I noticed something strange about myself and many of the other young males I grew up around. So often, our worst moments didn’t happen when we were broke, but right after payday—when a sudden influx of cash allowed us to indulge in alcohol or drugs. Then the hangover would come, along with fleeting moments of clarity and regret. It’s a cycle I explore in **[my memoir](https://www.simonandschuster.com/books/Troubled/Rob-Henderson/9781982168537)**.<br><br>Recognizing the dangers of wealth, as articulated by Fitzgerald, taught me to be cautious of sudden windfalls of good fortune, to respect the dangers of excess, and **to understand that self-discipline and restraint matter most precisely when it feels least necessary. It’s a constant reminder that character isn’t tested only by poverty and hardship, but equally—and perhaps even more dangerously—by success.**
 
 [Some random notes on Preparing for the Intelligence Explosion](https://www.forethought.org/research/preparing-for-the-intelligence-explosion)
 
@@ -48,3 +48,17 @@ Ah yes, just like the adults in the room currently. By what mechanism do we inte
 > Get started early on institutional design for new areas of governance , including on the rights of digital beings and the legal framework for property claims on offworld resources.
 
 Need to learn more about digital beings. There seems to be the assumption of consciousness in EA and EA-adjacent spaces that doesn't feel fully fleshed out. How, fundamentally, can next-token predictors experience suffering?
+
+[King of Fruits](https://www.worksinprogress.news/p/king-of-fruits?utm_source=post-email-title&publication_id=90387&post_id=159486280&utm_campaign=email-post-title&isFreemail=true&r=i22m&triedRedirect=true&utm_medium=email)—a fascinating essay on the history of the pineapple.
+
+On the first European to cultivate a pineapple in Europe:
+
+>The first person to succeed may have been Agnes Block, a horticulturist and art collector in the Netherlands, in around 1685. To commemorate her achievement, she commissioned a medal saying: ‘Fert arsque laborque quod natura negat’, meaning ‘art and labor bring about what nature cannot’.
+
+![medal](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53a43b79-1d07-4930-b6f3-e1d99d83d8ac_1600x1441.png)
+
+>By the late eighteenth century, ‘pineries’, as pineapple gardens were called, had become a regular feature of large European estates. The fruit had gone from being a rare curiosity to become an expensive but attainable luxury, at least for the wealthy. It became common practice to display a fresh pineapple at dinner parties to impress guests.
+
+Perhaps this is what was meant above by "enough material abundance to give everyone a lifestyle that today’s billionaires would envy."
+
+>Thus, in 1764, at the peak of pineapple mania in England, it is estimated that the average cost to cultivate a pineapple – taking into account the construction of the pinery, the import of pineapple plants from the Caribbean, and the gardening labor for three or four years – was [approximately £80](https://www.cabinetmagazine.org/issues/23/beauman.php). This translates to about £12,000, or $16,000, today.
