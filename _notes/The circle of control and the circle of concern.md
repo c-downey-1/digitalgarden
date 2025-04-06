@@ -17,7 +17,7 @@ This concept is similar to what is called outcome independence or process orient
 
 The stoics also figured this out long ago...
 
-Epictetus:
+[[Epictetus]]:
 
 >Some things are up to us and some are not up to us. Our opinions are up to us, and our impulses, desires, aversions—in short, whatever is our own doing. Our bodies are not up to us, nor are our possessions, our reputations, or our public offices, or, that is, whatever is not our own doing. The things that are up to us are by nature free, unhindered, and unimpeded; the things that are not up to us are weak, enslaved, hindered, not our own.
 
